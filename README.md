@@ -37,5 +37,5 @@ Mostly two things: getting better at building production-ready AI automations (t
 Feel free to reach out if you're hiring, have a project, or just want to chat about something you're building.
 
 * **LinkedIn:** [Badreddine El Aouba](https://www.linkedin.com/in/badreddine-el-aouba-952b84352/)
-* **Email:** *[elaouba@et.esiea.fr]*
+* **Email:** *elaouba@et.esiea.fr*
 
